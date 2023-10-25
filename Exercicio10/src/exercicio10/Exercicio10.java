@@ -30,7 +30,7 @@ public class Exercicio10 {
         //adicionarAluno(meuCurso, "Banco de Dados");
         //adicionarAluno(meuCurso, "Banco de Dados");
 
-        JOptionPane.showMessageDialog(null, "Cursos e Turmas:\n" + meuCurso);
+        JOptionPane.showMessageDialog(null, "Curssos e Turmas:\n" + meuCurso);
 
         Turma maiorTurma = meuCurso.maiorTurma();
         JOptionPane.showMessageDialog(null, "Maior Turma:\n" + maiorTurma);
